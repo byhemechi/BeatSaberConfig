@@ -1,0 +1,57 @@
+{
+  "visibleObjects": {
+    "Walls": "Visible",
+    "Debris": false,
+    "UI": true,
+    "Avatar": "Hidden",
+    "Floor": true,
+    "CutParticles": false,
+    "Notes": "Visible"
+  },
+  "type": "FirstPerson",
+  "FOV": 64.52,
+  "layer": 1,
+  "antiAliasing": 1,
+  "renderScale": 2.0,
+  "orthographic": false,
+  "farZ": 1000.0,
+  "viewRect": {
+    "x": 0.0,
+    "y": 0.0,
+    "width": 1.0,
+    "height": 1.0,
+    "locked": true
+  },
+  "Multiplayer": {
+    "followSpectatorPlattform": true
+  },
+  "Smoothfollow": {
+    "position": 10.0,
+    "rotation": 3.39999986,
+    "forceUpright": false,
+    "followReplayPosition": true,
+    "pivotingOffset": false
+  },
+  "ModmapExtensions": {
+    "autoOpaqueWalls": true,
+    "autoHideHUD": false
+  },
+  "FPSLimiter": {
+    "fpsLimit": 0
+  },
+  "PostProcessing": {
+    "transparencyThreshold": 0.0,
+    "chromaticAberrationAmount": 0.0,
+    "forceDepthTexture": false
+  },
+  "targetPos": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.7
+  },
+  "targetRot": {
+    "x": -3.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

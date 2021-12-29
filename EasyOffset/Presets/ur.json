@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0",
+  "unixTimestamp": 1640615355,
+  "controllerType": "CV1",
+  "rightHandPivotPositionX": 0.04660331,
+  "rightHandPivotPositionY": -0.03566039,
+  "rightHandPivotPositionZ": -0.1577474,
+  "rightHandSaberDirectionX": -0.4240611,
+  "rightHandSaberDirectionY": 0.3914074,
+  "rightHandSaberDirectionZ": 0.8166838,
+  "rightHandZOffset": 0.17,
+  "leftHandPivotPositionX": -0.04660331,
+  "leftHandPivotPositionY": -0.03566039,
+  "leftHandPivotPositionZ": -0.1577474,
+  "leftHandSaberDirectionX": 0.400985,
+  "leftHandSaberDirectionY": 0.4526269,
+  "leftHandSaberDirectionZ": 0.7964546,
+  "leftHandZOffset": 0.17
+}

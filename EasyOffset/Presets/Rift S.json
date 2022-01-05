@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0",
+  "unixTimestamp": 1640854998,
+  "controllerType": "RiftS/Quest",
+  "rightHandPivotPositionX": 0.0,
+  "rightHandPivotPositionY": 0.0,
+  "rightHandPivotPositionZ": -0.11,
+  "rightHandSaberDirectionX": -0.4562202,
+  "rightHandSaberDirectionY": -0.432339,
+  "rightHandSaberDirectionZ": 0.7777828,
+  "rightHandZOffset": 0.11,
+  "leftHandPivotPositionX": 0.0,
+  "leftHandPivotPositionY": 0.0,
+  "leftHandPivotPositionZ": -0.11,
+  "leftHandSaberDirectionX": 0.560017049,
+  "leftHandSaberDirectionY": -0.313614517,
+  "leftHandSaberDirectionZ": 0.766829133,
+  "leftHandZOffset": 0.11
+}

@@ -22,31 +22,31 @@
     {
       "threshold": 114,
       "text": "<size=210%>%c</size>%n%n%B %C %A%n",
-      "color": [1.0, 1.0, 1.0, 0.3],
+      "color": [0.0, 1.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 113,
       "text": "<size=200%>%c</size>%n%n%B %C %A%n",
-      "color": [0.0, 1.0, 1.0, 0.2],
+      "color": [1.0, 0.0, 0.2, 0.2],
       "fade": false
     },
     {
       "threshold": 112,
       "text": "<size=150%>%c</size>%n%n%B %C %A%n",
-      "color": [1.0, 0.0, 0.2, 0.2],
+      "color": [0.0, 0.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 111,
       "text": "<size=150%>%c</size>%n%n%B %C %A%n",
-      "color": [0.0, 0.0, 1.0, 0.2],
+      "color": [0.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 110,
       "text": "<size=150%>%c</size>%n%n%B %C %A%n",
-      "color": [0.0, 1.0, 0.0, 0.2],
+      "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {

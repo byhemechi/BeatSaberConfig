@@ -1,0 +1,69 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 2,
+  "patchVersion": 0,
+  "isDefaultConfig": false,
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "timeDependencyDecimalPrecision": 0,
+  "timeDependencyDecimalOffset": 0,
+  "targetPositionOffset": {
+    "x": 0,
+    "y": 0.2,
+    "z": 0
+  },
+  "judgments": [
+    {
+      "threshold": 111,
+      "text": "",
+      "color": [0.0, 1.0, 0.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 100,
+      "text": "bad",
+      "color": [1.0, 1.0, 0.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "very bad",
+      "color": [1.0, 0.0, 0.0, 0.2],
+      "fade": false
+    }
+  ],
+  "beforeCutAngleJudgments": [
+    {
+      "threshold": 71,
+      "text": "?!?!?!?!"
+    },
+    {
+      "threshold": 70,
+      "text": " "
+    },
+    {
+      "threshold": 0,
+      "text": "nice underswing loser"
+    }
+  ],
+  "accuracyJudgments": [
+    {
+      "threshold": 0,
+      "text": " "
+    }
+  ],
+  "afterCutAngleJudgments": [
+    {
+      "threshold": 31,
+      "text": "?!?!?!?!"
+    },
+    {
+      "threshold": 30,
+      "text": " "
+    },
+    {
+      "threshold": 0,
+      "text": "stupido"
+    }
+  ]
+}

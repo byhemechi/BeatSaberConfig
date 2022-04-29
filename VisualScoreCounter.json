@@ -1,0 +1,135 @@
+{
+  "CounterSettings": {
+    "RingScale": 1.0,
+    "BloomRing": false,
+    "PercentageRingShowsNextColor": true,
+    "HideBaseGameRankDisplay": true,
+    "CounterFontSettings": {
+      "WholeNumberFontSize": 7.0,
+      "WholeNumberXOffset": 0.0,
+      "WholeNumberYOffset": 0.7,
+      "FractionalNumberFontSize": 3.5,
+      "FractionalNumberXOffset": 0.0,
+      "FractionalNumberYOffset": -3.0,
+      "BloomFont": false
+    },
+    "PercentageColorSettings": {
+      "Color_100": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Color_99": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Color_98": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Color_97": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "Color_96": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "Color_95": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_94": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_93": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_92": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_91": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_90": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_89": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_88": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_80": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_65": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_50": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_35": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_20": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Color_0": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    },
+    "CounterXOffset": 0.0,
+    "CounterYOffset": 0.0
+  }
+}

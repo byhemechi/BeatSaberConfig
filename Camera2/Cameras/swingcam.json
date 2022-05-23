@@ -1,13 +1,13 @@
 {
   "visibleObjects": {
     "Walls": "Hidden",
-    "Debris": false,
+    "Debris": true,
     "UI": true,
     "Avatar": "Visible",
     "Floor": false,
     "CutParticles": false,
     "Notes": "Visible",
-    "EverythingElse": true,
+    "EverythingElse": false,
     "Sabers": true
   },
   "type": "Positionable",

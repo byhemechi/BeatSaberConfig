@@ -7,7 +7,7 @@
     "Floor": true,
     "CutParticles": false,
     "Notes": "Visible",
-    "EverythingElse": true,
+    "EverythingElse": false,
     "Sabers": true
   },
   "type": "Positionable",

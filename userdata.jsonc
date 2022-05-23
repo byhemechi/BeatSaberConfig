@@ -1,0 +1,172 @@
+// unfortunately it's not really possible to symlink userdata.dat over because of all the scores
+// this should work as a patch of "%UserProfile%\AppData\LocalLow\Hyperbolic Magnetism\Beat Saber\PlayerData.dat"
+{
+  "localPlayers": [
+    {
+      "playerSpecificSettings": {
+        "staticLights": false,
+        "leftHanded": false,
+        "playerHeight": 1.7703644132614136,
+        "automaticPlayerHeight": false,
+        "sfxVolume": 0,
+        "reduceDebris": false,
+        "noTextsAndHuds": false,
+        "advancedHud": true,
+        "saberTrailIntensity": 0.30000001192092896,
+        "_noteJumpDurationTypeSettingsSaveData": 1,
+        "noteJumpFixedDuration": 0.3999999463558197,
+        "autoRestart": false,
+        "noFailEffects": false,
+        "noteJumpBeatOffset": -0.5,
+        "hideNoteSpawnEffect": true,
+        "adaptiveSfx": false,
+        "environmentEffectsFilterDefaultPreset": 10,
+        "environmentEffectsFilterExpertPlusPreset": 10
+      },
+
+      "colorSchemesSettings": {
+        "overrideDefaultColors": true,
+        "selectedColorSchemeId": "User3",
+        "colorSchemes": [
+          {
+            "colorSchemeId": "User0",
+            "saberAColor": {
+              "r": 0.21960784494876862,
+              "g": 0.9058823585510254,
+              "b": 0.7450980544090271,
+              "a": 1
+            },
+            "saberBColor": {
+              "r": 0.019607843831181526,
+              "g": 0.20000000298023224,
+              "b": 0.5607843399047852,
+              "a": 1
+            },
+            "environmentColor0": {
+              "r": 0.32156863808631897,
+              "g": 0.8705882430076599,
+              "b": 0.6745098233222961,
+              "a": 1
+            },
+            "environmentColor1": {
+              "r": 0.32156863808631897,
+              "g": 0.34117648005485535,
+              "b": 0.7921568751335144,
+              "a": 1
+            },
+            "obstaclesColor": {
+              "r": 1,
+              "g": 0.24313725531101227,
+              "b": 0.22745098173618317,
+              "a": 1
+            }
+          },
+          {
+            "colorSchemeId": "User1",
+            "saberAColor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "saberBColor": {
+              "r": 0,
+              "g": 0,
+              "b": 1,
+              "a": 1
+            },
+            "environmentColor0": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "environmentColor1": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "obstaclesColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            }
+          },
+          {
+            "colorSchemeId": "User2",
+            "saberAColor": {
+              "r": 0.6098098754882812,
+              "g": 0.18823528289794922,
+              "b": 1,
+              "a": 1
+            },
+            "saberBColor": {
+              "r": 0.4735027849674225,
+              "g": 0.4735027849674225,
+              "b": 0.6274510025978088,
+              "a": 1
+            },
+            "environmentColor0": {
+              "r": 0.9548250436782837,
+              "g": 0.48258325457572937,
+              "b": 0.9406005144119263,
+              "a": 1
+            },
+            "environmentColor1": {
+              "r": 0.9527544975280762,
+              "g": 0.4728127419948578,
+              "b": 0.3980039954185486,
+              "a": 1
+            },
+            "obstaclesColor": {
+              "r": 1,
+              "g": 0.1882353127002716,
+              "b": 0.1882353127002716,
+              "a": 1
+            }
+          },
+          {
+            "colorSchemeId": "User3",
+            "saberAColor": {
+              "r": 1,
+              "g": 0.19999998807907104,
+              "b": 0.6012718081474304,
+              "a": 1
+            },
+            "saberBColor": {
+              "r": 0.4735027849674225,
+              "g": 0.4735027849674225,
+              "b": 0.6274510025978088,
+              "a": 1
+            },
+            "environmentColor0": {
+              "r": 0.4935305118560791,
+              "g": 0.48258325457572937,
+              "b": 0.9548250436782837,
+              "a": 1
+            },
+            "environmentColor1": {
+              "r": 0.3980039954185486,
+              "g": 0.7981815934181213,
+              "b": 0.9527544975280762,
+              "a": 1
+            },
+            "obstaclesColor": {
+              "r": 1,
+              "g": 0.19999998807907104,
+              "b": 0.6012718081474304,
+              "a": 1
+            }
+          }
+        ]
+      },
+      "overrideEnvironmentSettings": {
+        "overrideEnvironments": true,
+        "overrideNormalEnvironmentName": "DragonsEnvironment",
+        "override360EnvironmentName": "GlassDesertEnvironment"
+      }
+    }
+  ]
+}

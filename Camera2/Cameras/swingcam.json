@@ -1,13 +1,13 @@
 {
   "visibleObjects": {
     "Walls": "Hidden",
-    "Debris": true,
+    "Debris": false,
     "UI": true,
     "Avatar": "Visible",
     "Floor": false,
     "CutParticles": false,
     "Notes": "Visible",
-    "EverythingElse": false,
+    "EverythingElse": true,
     "Sabers": true
   },
   "type": "Positionable",
@@ -47,7 +47,7 @@
     "fpsLimit": 0
   },
   "PostProcessing": {
-    "transparencyThreshold": 35.0,
+    "transparencyThreshold": 0.99999994,
     "forceDepthTexture": true
   },
   "targetPos": {

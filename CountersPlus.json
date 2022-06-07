@@ -134,6 +134,12 @@
       "Position": "BelowCombo",
       "Distance": 0,
       "CanvasID": -1
+    },
+    "Time Dependendence Counter": {
+      "Enabled": true,
+      "Position": "AboveCombo",
+      "Distance": 0,
+      "CanvasID": -1
     }
   }
 }

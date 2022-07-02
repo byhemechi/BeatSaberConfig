@@ -21,7 +21,7 @@
   "orthographic": true,
   "farZ": 10.0,
   "viewRect": {
-    "x": 0.0,
+    "x": 0.0156,
     "y": 0.605,
     "width": 0.195,
     "height": 0.395,

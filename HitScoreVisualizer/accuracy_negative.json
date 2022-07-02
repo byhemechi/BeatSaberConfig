@@ -1,0 +1,550 @@
+{
+  "majorVersion": 3,
+  "minorVersion": 2,
+  "patchVersion": 0,
+  "isDefaultConfig": false,
+  "displayMode": "format",
+  "doIntermediateUpdates": true,
+  "timeDependencyDecimalPrecision": 0,
+  "timeDependencyDecimalOffset": 0,
+  "targetPositionOffset": {
+    "x": 0,
+    "y": 0.2,
+    "z": 0
+  },
+
+  "judgments": [
+    {
+      "threshold": 115,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [1.0, 1.0, 1.0, 5.0],
+      "fade": false
+    },
+    {
+      "threshold": 114,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [0.0, 1.0, 1.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 113,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [1.0, 0.0, 0.2, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 112,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [0.0, 0.0, 1.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 111,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [0.0, 1.0, 0.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 110,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [1.0, 1.0, 0.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 101,
+      "text": "<size=200%>%B %C %A</size>",
+      "color": [1.0, 1.0, 0.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 100,
+      "text": "<size=200%>numpty</size>%n%n%B %A",
+      "color": [1.0, 1.0, 0.0, 0.2],
+      "fade": false
+    },
+    {
+      "threshold": 0,
+      "text": "<size=200%>%s</size>",
+      "color": [1.0, 0.0, 0.0, 0.2],
+      "fade": false
+    }
+  ],
+  "beforeCutAngleJudgments": [
+    {
+      "threshold": 0,
+      "text": "-70"
+    },
+    {
+      "threshold": 1,
+      "text": "-69"
+    },
+    {
+      "threshold": 2,
+      "text": "-68"
+    },
+    {
+      "threshold": 3,
+      "text": "-67"
+    },
+    {
+      "threshold": 4,
+      "text": "-66"
+    },
+    {
+      "threshold": 5,
+      "text": "-65"
+    },
+    {
+      "threshold": 6,
+      "text": "-64"
+    },
+    {
+      "threshold": 7,
+      "text": "-63"
+    },
+    {
+      "threshold": 8,
+      "text": "-62"
+    },
+    {
+      "threshold": 9,
+      "text": "-61"
+    },
+    {
+      "threshold": 10,
+      "text": "-60"
+    },
+    {
+      "threshold": 11,
+      "text": "-59"
+    },
+    {
+      "threshold": 12,
+      "text": "-58"
+    },
+    {
+      "threshold": 13,
+      "text": "-57"
+    },
+    {
+      "threshold": 14,
+      "text": "-56"
+    },
+    {
+      "threshold": 15,
+      "text": "-55"
+    },
+    {
+      "threshold": 16,
+      "text": "-54"
+    },
+    {
+      "threshold": 17,
+      "text": "-53"
+    },
+    {
+      "threshold": 18,
+      "text": "-52"
+    },
+    {
+      "threshold": 19,
+      "text": "-51"
+    },
+    {
+      "threshold": 20,
+      "text": "-50"
+    },
+    {
+      "threshold": 21,
+      "text": "-49"
+    },
+    {
+      "threshold": 22,
+      "text": "-48"
+    },
+    {
+      "threshold": 23,
+      "text": "-47"
+    },
+    {
+      "threshold": 24,
+      "text": "-46"
+    },
+    {
+      "threshold": 25,
+      "text": "-45"
+    },
+    {
+      "threshold": 26,
+      "text": "-44"
+    },
+    {
+      "threshold": 27,
+      "text": "-43"
+    },
+    {
+      "threshold": 28,
+      "text": "-42"
+    },
+    {
+      "threshold": 29,
+      "text": "-41"
+    },
+    {
+      "threshold": 30,
+      "text": "-40"
+    },
+    {
+      "threshold": 31,
+      "text": "-39"
+    },
+    {
+      "threshold": 32,
+      "text": "-38"
+    },
+    {
+      "threshold": 33,
+      "text": "-37"
+    },
+    {
+      "threshold": 34,
+      "text": "-36"
+    },
+    {
+      "threshold": 35,
+      "text": "-35"
+    },
+    {
+      "threshold": 36,
+      "text": "-34"
+    },
+    {
+      "threshold": 37,
+      "text": "-33"
+    },
+    {
+      "threshold": 38,
+      "text": "-32"
+    },
+    {
+      "threshold": 39,
+      "text": "-31"
+    },
+    {
+      "threshold": 40,
+      "text": "-30"
+    },
+    {
+      "threshold": 41,
+      "text": "-29"
+    },
+    {
+      "threshold": 42,
+      "text": "-28"
+    },
+    {
+      "threshold": 43,
+      "text": "-27"
+    },
+    {
+      "threshold": 44,
+      "text": "-26"
+    },
+    {
+      "threshold": 45,
+      "text": "-25"
+    },
+    {
+      "threshold": 46,
+      "text": "-24"
+    },
+    {
+      "threshold": 47,
+      "text": "-23"
+    },
+    {
+      "threshold": 48,
+      "text": "-22"
+    },
+    {
+      "threshold": 49,
+      "text": "-21"
+    },
+    {
+      "threshold": 50,
+      "text": "-20"
+    },
+    {
+      "threshold": 51,
+      "text": "-19"
+    },
+    {
+      "threshold": 52,
+      "text": "-18"
+    },
+    {
+      "threshold": 53,
+      "text": "-17"
+    },
+    {
+      "threshold": 54,
+      "text": "-16"
+    },
+    {
+      "threshold": 55,
+      "text": "-15"
+    },
+    {
+      "threshold": 56,
+      "text": "-14"
+    },
+    {
+      "threshold": 57,
+      "text": "-13"
+    },
+    {
+      "threshold": 58,
+      "text": "-12"
+    },
+    {
+      "threshold": 59,
+      "text": "-11"
+    },
+    {
+      "threshold": 60,
+      "text": "-10"
+    },
+    {
+      "threshold": 61,
+      "text": "-9"
+    },
+    {
+      "threshold": 62,
+      "text": "-8"
+    },
+    {
+      "threshold": 63,
+      "text": "-7"
+    },
+    {
+      "threshold": 64,
+      "text": "-6"
+    },
+    {
+      "threshold": 65,
+      "text": "-5"
+    },
+    {
+      "threshold": 66,
+      "text": "-4"
+    },
+    {
+      "threshold": 67,
+      "text": "-3"
+    },
+    {
+      "threshold": 68,
+      "text": "-2"
+    },
+    {
+      "threshold": 69,
+      "text": "-1"
+    },
+    {
+      "threshold": 70,
+      "text": ""
+    }
+  ],
+  "accuracyJudgments": [
+    {
+      "threshold": 0,
+      "text": "-15"
+    },
+    {
+      "threshold": 1,
+      "text": "-14"
+    },
+    {
+      "threshold": 2,
+      "text": "-13"
+    },
+    {
+      "threshold": 3,
+      "text": "-12"
+    },
+    {
+      "threshold": 4,
+      "text": "-11"
+    },
+    {
+      "threshold": 5,
+      "text": "-10"
+    },
+    {
+      "threshold": 6,
+      "text": "-9"
+    },
+    {
+      "threshold": 7,
+      "text": "-8"
+    },
+    {
+      "threshold": 8,
+      "text": "-7"
+    },
+    {
+      "threshold": 9,
+      "text": "-6"
+    },
+    {
+      "threshold": 10,
+      "text": "-5"
+    },
+    {
+      "threshold": 11,
+      "text": "-4"
+    },
+    {
+      "threshold": 12,
+      "text": "-3"
+    },
+    {
+      "threshold": 13,
+      "text": "-2"
+    },
+    {
+      "threshold": 14,
+      "text": "-1"
+    },
+    {
+      "threshold": 15,
+      "text": "0"
+    }
+  ],
+  "afterCutAngleJudgments": [
+    {
+      "threshold": 0,
+      "text": "-30"
+    },
+    {
+      "threshold": 1,
+      "text": "-29"
+    },
+    {
+      "threshold": 2,
+      "text": "-28"
+    },
+    {
+      "threshold": 3,
+      "text": "-27"
+    },
+    {
+      "threshold": 4,
+      "text": "-26"
+    },
+    {
+      "threshold": 5,
+      "text": "-25"
+    },
+    {
+      "threshold": 6,
+      "text": "-24"
+    },
+    {
+      "threshold": 7,
+      "text": "-23"
+    },
+    {
+      "threshold": 8,
+      "text": "-22"
+    },
+    {
+      "threshold": 9,
+      "text": "-21"
+    },
+    {
+      "threshold": 10,
+      "text": "-20"
+    },
+    {
+      "threshold": 11,
+      "text": "-19"
+    },
+    {
+      "threshold": 12,
+      "text": "-18"
+    },
+    {
+      "threshold": 13,
+      "text": "-17"
+    },
+    {
+      "threshold": 14,
+      "text": "-16"
+    },
+    {
+      "threshold": 15,
+      "text": "-15"
+    },
+    {
+      "threshold": 16,
+      "text": "-14"
+    },
+    {
+      "threshold": 17,
+      "text": "-13"
+    },
+    {
+      "threshold": 18,
+      "text": "-12"
+    },
+    {
+      "threshold": 19,
+      "text": "-11"
+    },
+    {
+      "threshold": 20,
+      "text": "-10"
+    },
+    {
+      "threshold": 21,
+      "text": "-9"
+    },
+    {
+      "threshold": 22,
+      "text": "-8"
+    },
+    {
+      "threshold": 23,
+      "text": "-7"
+    },
+    {
+      "threshold": 24,
+      "text": "-6"
+    },
+    {
+      "threshold": 25,
+      "text": "-5"
+    },
+    {
+      "threshold": 26,
+      "text": "-4"
+    },
+    {
+      "threshold": 27,
+      "text": "-3"
+    },
+    {
+      "threshold": 28,
+      "text": "-2"
+    },
+    {
+      "threshold": 29,
+      "text": "-1"
+    },
+    {
+      "threshold": 30,
+      "text": ""
+    }
+  ]
+}

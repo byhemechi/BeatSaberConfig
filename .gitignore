@@ -1,2 +1,5 @@
 Backups/
 Replays/
+/CustomSabers
+!CustomSabers/Baz2t.saber
+!CustomSabers/BazGlass.saber

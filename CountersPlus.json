@@ -140,6 +140,12 @@
       "Position": "AboveCombo",
       "Distance": 0,
       "CanvasID": -1
+    },
+    "PP Counter": {
+      "Enabled": true,
+      "Position": "BelowEnergy",
+      "Distance": 0,
+      "CanvasID": -1
     }
   }
 }

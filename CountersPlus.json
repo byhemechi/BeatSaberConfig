@@ -1,8 +1,8 @@
 {
   "Enabled": true,
-  "HideCombo": false,
+  "HideCombo": true,
   "HideMultiplier": true,
-  "ComboOffset": 0.4,
+  "ComboOffset": 0.2,
   "MultiplierOffset": 0.1,
   "ItalicText": false,
   "AprilFoolsTomfoolery": true,
@@ -29,7 +29,7 @@
     "OtherCanvasSettings": []
   },
   "MissedConfig": {
-    "Enabled": true,
+    "Enabled": false,
     "Position": "BelowMultiplier",
     "Distance": 1,
     "CountBadCuts": true,
@@ -72,11 +72,11 @@
   "PBConfig": {
     "Enabled": true,
     "Position": "BelowCombo",
-    "Distance": 1,
+    "Distance": 0,
     "Mode": "Relative",
     "BetterColor": "#FF0000",
     "DefaultColor": "#FFFFFF",
-    "DecimalPrecision": 3,
+    "DecimalPrecision": 2,
     "TextSize": 2,
     "UnderScore": true,
     "HideFirstScore": true,
@@ -132,18 +132,24 @@
     "Visual Score Counter": {
       "Enabled": true,
       "Position": "BelowCombo",
-      "Distance": 0,
+      "Distance": -1,
       "CanvasID": -1
     },
     "Time Dependendence Counter": {
       "Enabled": true,
-      "Position": "AboveCombo",
-      "Distance": 0,
+      "Position": "AboveHighway",
+      "Distance": 3,
       "CanvasID": -1
     },
     "PP Counter": {
       "Enabled": true,
       "Position": "BelowEnergy",
+      "Distance": -1,
+      "CanvasID": -1
+    },
+    "Accuracy Combo": {
+      "Enabled": true,
+      "Position": "BelowMultiplier",
       "Distance": 0,
       "CanvasID": -1
     }

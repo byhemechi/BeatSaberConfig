@@ -11,7 +11,7 @@
     "Sabers": true
   },
   "type": "Positionable",
-  "worldCamVisibility": "HiddenWhilePlaying",
+  "worldCamVisibility": "Hidden",
   "previewScreenSize": 0.3,
   "worldCamUnderScreen": true,
   "FOV": 75.0,
@@ -21,11 +21,11 @@
   "orthographic": true,
   "farZ": 10.0,
   "viewRect": {
-    "x": 0.0156,
+    "x": 0.0,
     "y": 0.605,
     "width": 0.195,
     "height": 0.395,
-    "locked": false
+    "locked": true
   },
   "Multiplayer": {
     "followSpectatorPlattform": true

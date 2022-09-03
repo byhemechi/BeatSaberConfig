@@ -2,6 +2,7 @@
   "Enabled": true,
   "HideCombo": true,
   "HideMultiplier": true,
+  "HideMultiplayerRank": false,
   "ComboOffset": 0.2,
   "MultiplierOffset": 0.1,
   "ItalicText": false,
@@ -29,7 +30,7 @@
     "OtherCanvasSettings": []
   },
   "MissedConfig": {
-    "Enabled": false,
+    "Enabled": true,
     "Position": "BelowMultiplier",
     "Distance": 1,
     "CountBadCuts": true,
@@ -122,6 +123,12 @@
     "ShowRestartsInstead": false,
     "CanvasID": -1
   },
+  "MultiplayerRankConfig": {
+    "Enabled": false,
+    "Position": "AboveHighway",
+    "Distance": 0,
+    "CanvasID": -1
+  },
   "CustomCounters": {
     "FC Percentage": {
       "Enabled": true,
@@ -148,7 +155,7 @@
       "CanvasID": -1
     },
     "Accuracy Combo": {
-      "Enabled": true,
+      "Enabled": false,
       "Position": "BelowMultiplier",
       "Distance": 0,
       "CanvasID": -1

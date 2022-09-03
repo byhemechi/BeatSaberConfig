@@ -1,6 +1,6 @@
 ﻿{
   "Version": "2.0",
-  "UnixTimestamp": 1656575635,
+  "UnixTimestamp": 1662184214,
   "ControllerType": "CV1",
   "LeftSaberPivotPosition": {
     "x": -5.4614,
@@ -8,17 +8,17 @@
     "z": -13.89718
   },
   "LeftSaberRotationEuler": {
-    "x": -16.7105713,
-    "y": 33.8473434,
-    "z": -1.23898315
+    "x": -17.3488464,
+    "y": 34.20248,
+    "z": -1.37484741
   },
   "LeftSaberZOffset": 17.0,
   "LeftSaberHasReference": true,
   "LeftSaberReference": {
-    "x": -0.1433096,
-    "y": 0.3511903,
-    "z": -0.5470644,
-    "w": 0.7462226
+    "x": -0.278943241,
+    "y": 0.161257118,
+    "z": -0.417505234,
+    "w": 0.849633
   },
   "RightSaberPivotPosition": {
     "x": 5.4614,
@@ -26,16 +26,16 @@
     "z": -13.89718
   },
   "RightSaberRotationEuler": {
-    "x": -16.7105713,
-    "y": -33.84735,
-    "z": 1.2389915
+    "x": -17.3488464,
+    "y": -34.2024841,
+    "z": 1.37484872
   },
   "RightSaberZOffset": 17.0,
   "RightSaberHasReference": true,
   "RightSaberReference": {
-    "x": -0.1433096,
-    "y": -0.3511903,
-    "z": 0.5470645,
-    "w": 0.7462226
+    "x": -0.2789432,
+    "y": -0.1612571,
+    "z": 0.4175052,
+    "w": 0.849633
   }
 }

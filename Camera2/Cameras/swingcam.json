@@ -47,7 +47,7 @@
     "fpsLimit": 0
   },
   "PostProcessing": {
-    "transparencyThreshold": 0.99999994,
+    "transparencyThreshold": 1E-08,
     "forceDepthTexture": true
   },
   "targetPos": {

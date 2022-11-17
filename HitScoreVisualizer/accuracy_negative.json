@@ -22,37 +22,37 @@
     },
     {
       "threshold": 114,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=200%>%B %d %C %A</size>",
       "color": [0.0, 1.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 113,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=200%>%B %d %C %A</size>",
       "color": [1.0, 0.0, 0.2, 0.2],
       "fade": false
     },
     {
       "threshold": 112,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=200%>%B %d %C %A</size>",
       "color": [0.0, 0.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 111,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=200%>%B %d %C %A</size>",
       "color": [0.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 110,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=200%>%B %d %C %A</size>",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 101,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=200%>%B %d %C %A</size>",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },

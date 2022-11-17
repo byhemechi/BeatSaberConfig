@@ -28,10 +28,17 @@
     "followSpectatorPlattform": true
   },
   "Smoothfollow": {
-    "position": 10.0,
-    "rotation": 3.39999986,
-    "forceUpright": false,
+    "position": 5.20000029,
+    "rotation": 1.2,
     "followReplayPosition": true,
+    "limits": {
+      "pos_x": "-Infinity:Infinity",
+      "pos_y": "-Infinity:Infinity",
+      "pos_z": "-Infinity:Infinity",
+      "rot_x": "-Infinity:Infinity",
+      "rot_y": "-Infinity:Infinity",
+      "rot_z": "-Infinity:Infinity"
+    },
     "pivotingOffset": false
   },
   "ModmapExtensions": {
@@ -48,7 +55,7 @@
   "targetPos": {
     "x": 0.0,
     "y": 0.0,
-    "z": -0.7
+    "z": -1.0
   },
   "targetRot": {
     "x": 1.5,

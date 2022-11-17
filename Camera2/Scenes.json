@@ -6,11 +6,11 @@
     "Playing360": [],
     "PlayingModmap": [],
     "PlayingMulti": [],
+    "SpectatingMulti": [],
     "Replay": [],
-    "FPFC": [],
-    "SpectatingMulti": []
+    "FPFC": []
   },
   "customScenes": {},
   "customSceneBindings": {},
-  "autoswitchFromCustom": true
+  "autoswitchFromCustom": false
 }

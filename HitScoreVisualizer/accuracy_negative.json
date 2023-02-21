@@ -16,49 +16,31 @@
   "judgments": [
     {
       "threshold": 115,
-      "text": "<size=200%>%B %C %A</size>",
+      "text": "<size=150%>%C</size>",
       "color": [1.0, 1.0, 1.0, 5.0],
       "fade": false
     },
     {
       "threshold": 114,
-      "text": "<size=200%>%B %d %C %A</size>",
+      "text": "<size=150%>%d %C</size>",
       "color": [0.0, 1.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 113,
-      "text": "<size=200%>%B %d %C %A</size>",
+      "text": "<size=150%>%d %C</size>",
       "color": [1.0, 0.0, 0.2, 0.2],
       "fade": false
     },
     {
-      "threshold": 112,
-      "text": "<size=200%>%B %d %C %A</size>",
-      "color": [0.0, 0.0, 1.0, 0.2],
-      "fade": false
-    },
-    {
-      "threshold": 111,
-      "text": "<size=200%>%B %d %C %A</size>",
-      "color": [0.0, 1.0, 0.0, 0.2],
-      "fade": false
-    },
-    {
-      "threshold": 110,
-      "text": "<size=200%>%B %d %C %A</size>",
-      "color": [1.0, 1.0, 0.0, 0.2],
-      "fade": false
-    },
-    {
       "threshold": 101,
-      "text": "<size=200%>%B %d %C %A</size>",
+      "text": "<size=200%>%d %C</size>",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 100,
-      "text": "<size=200%>numpty</size>%n%n%B %A",
+      "text": "<size=200%>numpty</size>%n%n%A",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },

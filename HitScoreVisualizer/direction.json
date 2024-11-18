@@ -15,55 +15,55 @@
   "judgments": [
     {
       "threshold": 115,
-      "text": "<size=110%>░█░</size>%n%n%B %C %A%n",
+      "text": "<size=220%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [1.0, 1.0, 1.0, 5.0],
       "fade": false
     },
     {
       "threshold": 114,
-      "text": "<size=110%>%d</size>%n%n%B %C %A%n",
+      "text": "<size=210%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [0.0, 1.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 113,
-      "text": "<size=110%>%d</size>%n%n%B %C %A%n",
+      "text": "<size=200%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [1.0, 0.0, 0.2, 0.2],
       "fade": false
     },
     {
       "threshold": 112,
-      "text": "<size=110%>%d</size>%n%n%B %C %A%n",
+      "text": "<size=150%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [0.0, 0.0, 1.0, 0.2],
       "fade": false
     },
     {
       "threshold": 111,
-      "text": "<size=110%>%d</size>%n%n%B %C %A%n",
+      "text": "<size=150%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [0.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 110,
-      "text": "<size=110%>%d</size>%n%n%B %C %A%n",
+      "text": "<size=150%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 101,
-      "text": "<size=110%>%d</size>%n%n%B %C %A%n",
+      "text": "<size=150%>%c%d</size>%n%n%B %c%d %A%n",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 100,
-      "text": "<size=110%>numpty</size>%n%n%B %C %A",
+      "text": "<size=200%>numpty</size>%n%n%B %c%d %A",
       "color": [1.0, 1.0, 0.0, 0.2],
       "fade": false
     },
     {
       "threshold": 0,
-      "text": "<size=110%>%s</size>%n%n%B %C %A%n",
+      "text": "<size=150%>%s</size>%n%n%B %c%d %A%n",
       "color": [1.0, 0.0, 0.0, 0.2],
       "fade": false
     }

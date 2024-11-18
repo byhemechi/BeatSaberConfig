@@ -1,14 +1,36 @@
 {
   "scenes": {
-    "Menu": [],
-    "MultiplayerMenu": [],
-    "Playing": [],
-    "Playing360": [],
-    "PlayingModmap": [],
-    "PlayingMulti": [],
-    "SpectatingMulti": [],
-    "Replay": [],
-    "FPFC": []
+    "Menu": [
+      "maincam"
+    ],
+    "MultiplayerMenu": [
+      "maincam"
+    ],
+    "Playing": [
+      "Side View",
+      "swingcam",
+      "maincam"
+    ],
+    "Playing360": [
+      "maincam"
+    ],
+    "PlayingModmap": [
+      "maincam"
+    ],
+    "PlayingMulti": [
+      "maincam"
+    ],
+    "SpectatingMulti": [
+      "maincam"
+    ],
+    "Replay": [
+      "Side View",
+      "swingcam",
+      "maincam"
+    ],
+    "FPFC": [
+      "maincam"
+    ]
   },
   "customScenes": {},
   "customSceneBindings": {},

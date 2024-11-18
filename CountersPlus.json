@@ -75,7 +75,7 @@
     "Position": "BelowCombo",
     "Distance": 0,
     "Mode": "Relative",
-    "BetterColor": "#FF0000",
+    "BetterColor": "#6BFF69",
     "DefaultColor": "#FFFFFF",
     "DecimalPrecision": 2,
     "TextSize": 2,
@@ -151,13 +151,19 @@
     "PP Counter": {
       "Enabled": true,
       "Position": "BelowEnergy",
-      "Distance": -1,
+      "Distance": 0,
       "CanvasID": -1
     },
     "Accuracy Combo": {
       "Enabled": false,
       "Position": "BelowMultiplier",
       "Distance": 0,
+      "CanvasID": -1
+    },
+    "PBOT": {
+      "Enabled": true,
+      "Position": "BelowEnergy",
+      "Distance": -1,
       "CanvasID": -1
     }
   }

@@ -3,9 +3,9 @@
     "Walls": "Hidden",
     "Debris": false,
     "UI": false,
-    "Avatar": "Visible",
+    "Avatar": "Hidden",
     "Floor": false,
-    "CutParticles": true,
+    "CutParticles": false,
     "Notes": "Visible",
     "EverythingElse": false,
     "Sabers": true

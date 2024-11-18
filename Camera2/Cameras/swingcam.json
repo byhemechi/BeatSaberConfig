@@ -2,8 +2,8 @@
   "visibleObjects": {
     "Walls": "Hidden",
     "Debris": false,
-    "UI": true,
-    "Avatar": "Visible",
+    "UI": false,
+    "Avatar": "Hidden",
     "Floor": false,
     "CutParticles": false,
     "Notes": "Visible",
